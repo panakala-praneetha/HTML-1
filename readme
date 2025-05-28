@@ -1,0 +1,55 @@
+🌟 Local Community Event Portal 🌟
+A beginner-friendly, all-in-one HTML5 web project crafted to promote and manage local community events — no frameworks, no setup headaches. Just open and go! 🎉
+
+📣 Overview
+Local Community Event Portal is a lightweight, self-contained HTML5 project showcasing the fundamentals of modern web development. It’s the perfect hands-on guide for students, beginners, or anyone wanting to explore HTML5, CSS3, and JavaScript through a practical and fun project.
+
+🚀 Features
+✨ Responsive Navigation Bar
+✨ Event Registration Form
+✨ Feedback Collection Section
+✨ Embedded Multimedia (Images & Videos)
+✨ Geolocation API Integration
+✨ Local Storage for User Preferences
+✨ Error Handling & Debugging Best Practices
+✨ Help & FAQ Section
+
+🖥️ How to Use
+1️⃣ Clone or Download this repository:
+https://github.com/panakala-praneetha
+2️⃣ Open index.html in your favorite web browser — no additional setup needed!
+
+3️⃣ Explore the Help & FAQ section via help.html for usage tips and troubleshooting.
+
+🛠️ Tech Stack
+HTML5
+
+CSS3 (Embedded)
+
+JavaScript (Inline)
+
+Web APIs: Geolocation, LocalStorage
+
+Multimedia: Images, Video
+
+🎓 Learning Goals
+✅ Master embedding CSS & JS directly within HTML
+✅ Build accessible, responsive web forms
+✅ Integrate browser-native Web APIs
+✅ Manage user preferences using LocalStorage
+✅ Practice real-time debugging in browsers
+
+📸 Project Preview
+
+📬 Contact
+Name: Panakala Praneetha
+Email: panakalapraneetha@gmail.com
+LinkedIn: Praneetha Panakala
+
+📄 License
+This project is licensed under the MIT License.
+
+🌟 Support This Project
+If you find this project helpful or interesting, please consider giving it a ⭐ on GitHub!
+
+
